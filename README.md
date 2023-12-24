@@ -1,3 +1,3 @@
 # Project-Amazon-Clone
-My first repository on GitHub.
+My first project based on css and html.
 
